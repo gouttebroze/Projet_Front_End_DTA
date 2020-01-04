@@ -1,0 +1,26 @@
+@import url('stylecommun.css');
+
+body { /*margin-top:20px;*/ 
+    background-color:white;
+    color: white;
+}
+
+footer{
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+}
+
+h1{
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+}
+
+div.row{
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+}
+
+fieldset{
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+}

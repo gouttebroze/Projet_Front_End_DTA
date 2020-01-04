@@ -1,0 +1,10 @@
+@import url('stylecommun.css');
+body{
+    background-color: black;
+}
+
+footer{
+    color: white;
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+}
